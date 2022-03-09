@@ -2,7 +2,7 @@
 information engineering lab repositiory
 ## Just testing Readme.md
 :shipit:
-```
+```json
 {
   "firstName": "Emin",
   "lastName": "Shirinov",

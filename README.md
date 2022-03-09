@@ -4,7 +4,7 @@ information engineering lab repositiory
 :shipit:
 ```
 {
-  "firstName": "~~Emin~~",
+  "firstName": "Emin",
   "lastName": "Shirinov",
   "age": 19
 }

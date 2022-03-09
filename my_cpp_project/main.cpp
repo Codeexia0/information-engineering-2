@@ -1,13 +1,13 @@
 #include <iostream>
 
-using namespace std;
-
 int main()
 {
-    cout << "Hello Codeexia!" << endl;
-    cout << "Bye Codeexia!" << endl;
+    std::cout << "Hello Codeexia!" << std::endl;
+    std::cout << "Bye Codeexia!" << std::endl;
 
-    cout << "Hello Iman !" << endl;
-    cout << "Bye Iman!" << endl;
+    std::cout << "Hello Iman!" << std::endl;
+    std::cout << "Bye Iman!" << std::endl;
+
+    std::cout << "Let's get it started!" << std::endl;
     return 0;
 }
